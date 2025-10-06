@@ -1,0 +1,25 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "285d725f-e15b-4ee1-9070-8da287e27bde",
+  "IDENTITY_SUBSCRIPTION_ID": "fa841560-474f-4790-b8a1-3c1952a81a01",
+  "LOCATION": "eastus",
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "1fb9f753-3dcc-4749-aee8-dcf788217fb0",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "alz",
+  "PREFIX": "alz",
+  "RELEASE_VERSION": "v0.23.0",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": "centralus",
+  "SECURITY_SUBSCRIPTION_ID": "67abf276-b631-47fb-9599-3eea266d88d6"
+}
